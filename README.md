@@ -1,2 +1,2 @@
 # Synopsis
-Creates a summary for a text
+Creates summary for a text based on sentence intersection
